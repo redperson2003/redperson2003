@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @redperson2003
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Software engineering in Okan University
